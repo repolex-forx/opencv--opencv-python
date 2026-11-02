@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/opencv/opencv-python/commit/031876bd46b781b8f4db2075327e5a78a53dff63",
       "git:hexsha": "031876bd46b781b8f4db2075327e5a78a53dff63",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-02T21:14:52.182335+00:00"
     },
     {
       "@id": "https://repolex.ai/r/opencv/opencv-python/commit/c4f57d9f7d8955c6003ef77677b795b8310b4b4a",
