@@ -1,0 +1,11 @@
+{
+  "org": "opencv",
+  "repo": "opencv-python",
+  "versions": [
+    {
+      "commit": "031876bd46b781b8f4db2075327e5a78a53dff63",
+      "tag": "",
+      "parsed_at": "2026-11-02T21:14:52.183101+00:00"
+    }
+  ]
+}
