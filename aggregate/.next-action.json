@@ -1,8 +1,9 @@
 {
-  "next_action": "ast",
-  "phase_completed": "parse",
+  "next_action": "enrich",
+  "phase_completed": "ast",
   "commit_sha": "4ddfc013fd1f13d9b9e379dbebf2cdbeb052e7f8",
-  "ts": "2026-11-22T02:03:12Z",
-  "blobs_parsed": 16,
-  "blobs_skipped": 25
+  "ts": "2026-11-22T02:05:37Z",
+  "chunks": 1,
+  "triples": 45734,
+  "skip_lsp": false
 }
