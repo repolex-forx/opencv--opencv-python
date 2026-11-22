@@ -3,6 +3,11 @@
   "repo": "opencv-python",
   "versions": [
     {
+      "commit": "4ddfc013fd1f13d9b9e379dbebf2cdbeb052e7f8",
+      "tag": "92",
+      "parsed_at": "2026-11-22T02:09:46.815336+00:00"
+    },
+    {
       "commit": "031876bd46b781b8f4db2075327e5a78a53dff63",
       "tag": "",
       "parsed_at": "2026-11-02T21:14:52.183101+00:00"
