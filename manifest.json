@@ -119,6 +119,31 @@
       ],
       "ast": [
         "aggregate/ast/4ddfc013fd1f13d9b9e379dbebf2cdbeb052e7f8/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/4ddfc013fd1f13d9b9e379dbebf2cdbeb052e7f8.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "packaging",
+          "ecosystem": "PYPI",
+          "version": "26.3.0",
+          "githubOrg": "pypa",
+          "githubRepo": "packaging",
+          "githubUrl": "https://github.com/pypa/packaging",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/packaging/version.py"
+        },
+        {
+          "packageName": "setuptools",
+          "ecosystem": "PYPI",
+          "version": "84.2.1",
+          "githubOrg": "pypa",
+          "githubRepo": "setuptools",
+          "githubCommit": "3895f9829fc0e51882981773a823a658eb1d1636",
+          "githubTag": "v84.2.1",
+          "githubUrl": "https://github.com/pypa/setuptools",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/setuptools/build_meta.py"
+        }
       ]
     }
   ],
